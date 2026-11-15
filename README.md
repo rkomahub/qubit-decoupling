@@ -1,6 +1,6 @@
 # Qubit Decoupling
 
-![Bloch sphere showing phase drift, a pi pulse, and refocusing in a Hahn echo](docs/assets/banner.png)
+<img src="docs/assets/banner.png" alt="Hahn echo on a Bloch sphere" width="300">
 
 *Hahn echo under constant detuning: teal shows phase drift, dotted pink illustrates the π pulse about the x axis, and amber shows refocusing.*
 
