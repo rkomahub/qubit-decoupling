@@ -26,7 +26,7 @@ With Python 3 installed, run these commands in Bash from the repository root to 
 ```bash
 python3 -m venv .venv
 source .venv/bin/activate
-python -m pip install numpy matplotlib pytest
+python -m pip install numpy qutip matplotlib pytest
 ```
 
 NumPy is planned for the core calculations, Matplotlib is used by the banner script and planned for the comparison plot, and pytest will run the tests. These commands install the dependencies, not the library itself. No dependencies are needed to view the banner on GitHub.
